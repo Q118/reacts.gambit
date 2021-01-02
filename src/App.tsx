@@ -7,12 +7,16 @@ import { ChessInstance, ShortMove } from "chess.js";
 
 const Chess = require("chess.js");
 
+// by using chess, we will allow users to only make valid moves. 
+  //and play random computer move
+
 const App: React.FC = () => {
 	const [chess] = useState<ChessInstance>(
 		new Chess("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1")
 	);
 
-  
+const [fen, setFen] = useState(chess.fen());
+
 
 	return (
 		<div className="flex-center">
