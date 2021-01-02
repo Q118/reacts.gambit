@@ -22,10 +22,11 @@ const [fen, setFen] = useState(chess.fen());
 // shortMove is an object which has (from), (to), (promotion) properties
 const handleMove = (move: ShortMove) => {
   if(chess.move(move)) {
+    
     setTimeout(() => {
       const moves = chess.moves();
-
       if (moves.length > 0) {
+        // console.log("moving");
         const computerMove= moves[Math.floor(Math.random() * moves.length)];
         chess.move(computerMove);
         setFen(chess.fen());
@@ -41,8 +42,8 @@ const handleMove = (move: ShortMove) => {
 //if a played move was valid, we take the updated fen from chess.js and update the fen state.
 
 
-// after, updating the fen, we set a timeout fro 300ms
-  //get all thevalid moves byusing moves() which return array of moves.
+// after, updating the fen, we set a timeout from 300ms
+  //get all thevalid moves by using moves() which return array of moves.
   //pick a random move and play it on the chess.js and update the fen again
     //this continues until the game is over
 
@@ -53,7 +54,7 @@ const handleMove = (move: ShortMove) => {
 
 	return (
     <div className="flex-center">
-      <h1>Random Chess</h1>
+      <h1 className= "title">S.Bear's First Programmatic ChessBoard</h1>
       <Chessboard
         width={400}
         position={fen}
