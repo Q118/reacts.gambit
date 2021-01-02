@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacts.gambit/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/reacts.gambit/static/js/main.af511e1d.chunk.js",
+    "main.js.map": "/reacts.gambit/static/js/main.af511e1d.chunk.js.map",
+    "runtime-main.js": "/reacts.gambit/static/js/runtime-main.663142c5.js",
+    "runtime-main.js.map": "/reacts.gambit/static/js/runtime-main.663142c5.js.map",
+    "static/js/2.27b4c7da.chunk.js": "/reacts.gambit/static/js/2.27b4c7da.chunk.js",
+    "static/js/2.27b4c7da.chunk.js.map": "/reacts.gambit/static/js/2.27b4c7da.chunk.js.map",
+    "static/js/3.5da64ac9.chunk.js": "/reacts.gambit/static/js/3.5da64ac9.chunk.js",
+    "static/js/3.5da64ac9.chunk.js.map": "/reacts.gambit/static/js/3.5da64ac9.chunk.js.map",
+    "index.html": "/reacts.gambit/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/reacts.gambit/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.27b4c7da.chunk.js.LICENSE.txt": "/reacts.gambit/static/js/2.27b4c7da.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reacts.gambit/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.663142c5.js",
+    "static/js/2.27b4c7da.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.af511e1d.chunk.js"
+  ]
+}
