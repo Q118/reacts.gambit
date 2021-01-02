@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reacts.gambit/static/css/main.576d504f.chunk.css",
-    "main.js": "/reacts.gambit/static/js/main.f9f6f5f4.chunk.js",
-    "main.js.map": "/reacts.gambit/static/js/main.f9f6f5f4.chunk.js.map",
+    "main.css": "/reacts.gambit/static/css/main.878744df.chunk.css",
+    "main.js": "/reacts.gambit/static/js/main.56961759.chunk.js",
+    "main.js.map": "/reacts.gambit/static/js/main.56961759.chunk.js.map",
     "runtime-main.js": "/reacts.gambit/static/js/runtime-main.e251a8ed.js",
     "runtime-main.js.map": "/reacts.gambit/static/js/runtime-main.e251a8ed.js.map",
     "static/js/2.62529b7c.chunk.js": "/reacts.gambit/static/js/2.62529b7c.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.10adafb4.chunk.js": "/reacts.gambit/static/js/3.10adafb4.chunk.js",
     "static/js/3.10adafb4.chunk.js.map": "/reacts.gambit/static/js/3.10adafb4.chunk.js.map",
     "index.html": "/reacts.gambit/index.html",
-    "static/css/main.576d504f.chunk.css.map": "/reacts.gambit/static/css/main.576d504f.chunk.css.map",
+    "static/css/main.878744df.chunk.css.map": "/reacts.gambit/static/css/main.878744df.chunk.css.map",
     "static/js/2.62529b7c.chunk.js.LICENSE.txt": "/reacts.gambit/static/js/2.62529b7c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e251a8ed.js",
     "static/js/2.62529b7c.chunk.js",
-    "static/css/main.576d504f.chunk.css",
-    "static/js/main.f9f6f5f4.chunk.js"
+    "static/css/main.878744df.chunk.css",
+    "static/js/main.56961759.chunk.js"
   ]
 }
